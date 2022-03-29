@@ -6,9 +6,10 @@ const Header = () => {
                 <a href="/">PICKLE RICKKKK</a>
             </h1>
         </div>
-    </div>
-    <div class="Header-nav">
-        <a href="#/about">About</a>
+
+        <div class="Header-nav">
+            <a href="#/about">About</a>
+        </div>
     </div>
     `;
 
